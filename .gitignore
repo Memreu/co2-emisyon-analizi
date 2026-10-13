@@ -1,0 +1,4 @@
+owid-co2-data.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
